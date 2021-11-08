@@ -1,0 +1,10 @@
+C:\Users\Paula\source\repos\Lanterna\Lanterna\obj\Debug\Lanterna.csproj.AssemblyReference.cache
+C:\Users\Paula\source\repos\Lanterna\Lanterna\obj\Debug\Lanterna.Form1.resources
+C:\Users\Paula\source\repos\Lanterna\Lanterna\obj\Debug\Lanterna.Properties.Resources.resources
+C:\Users\Paula\source\repos\Lanterna\Lanterna\obj\Debug\Lanterna.csproj.GenerateResource.cache
+C:\Users\Paula\source\repos\Lanterna\Lanterna\obj\Debug\Lanterna.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\Lanterna\Lanterna\bin\Debug\Lanterna.exe.config
+C:\Users\Paula\source\repos\Lanterna\Lanterna\bin\Debug\Lanterna.exe
+C:\Users\Paula\source\repos\Lanterna\Lanterna\bin\Debug\Lanterna.pdb
+C:\Users\Paula\source\repos\Lanterna\Lanterna\obj\Debug\Lanterna.exe
+C:\Users\Paula\source\repos\Lanterna\Lanterna\obj\Debug\Lanterna.pdb
